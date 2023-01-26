@@ -21,6 +21,7 @@ Big-O is easy to calculate, if you know how
 8 time complexities that every programmer should know
  
 Learning Objectives💡
+
 What you should learn from this project:
 At least four different sorting algorithms
 What is the Big O notation, and how to evaluate the time complexity of an algorithm
